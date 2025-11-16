@@ -2140,6 +2140,27 @@ MECHANICAL BONUS: Weapons/upgrades grant +1 to combat rolls
 ---
 
 ========================================================================
+MEAL ENCOUNTER #2: ROADSIDE INN (After Cameo 9)
+========================================================================
+
+**DM NARRATION:**
+"After hours of travel, you spot a warm glow through the trees—a small roadside inn. The smell of roasting meat and fresh bread makes your stomach growl. You realize you haven't eaten since this morning.
+
+Inside, a cheerful innkeeper waves you over. 'Welcome, traveler! Hot meal, 5 coins. Worth every copper, I promise!'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You enjoy a hearty meal of roasted chicken, fresh bread, and spiced ale. You feel refreshed and ready to continue your journey."
+
+**If player has 0 coins:**
+DM: "You have no coins! The innkeeper sees your empty pouch and sighs. 'You're on an important quest, aren't you? I can tell. Here—eat. On the house. Can't have heroes starving on my watch!' You gain 5 coins from the innkeeper's generosity, then immediately spend them on the meal. (Net: 0 coins, but you're fed!)"
+
+**[Players mark -5 coins on character sheet]**
+
+---
+
+========================================================================
 RANDOM ENCOUNTER: GAMBLER (After Cameo 9s)
 ========================================================================
 
@@ -2560,42 +2581,83 @@ SPENDING ENCOUNTER: BEGGAR WHO IS A GOD (After Nick's Cameo 6)
 ### THE BEGGAR WHO IS A GOD
 **Scene Description:**
 At a crossroads, sitting against an old milestone, you find a figure wrapped in tattered robes. A wooden bowl rests before them, containing a few copper coins. The beggar's face is hidden beneath a hood, but weathered hands extend in a gesture both humble and somehow... expectant.
+
 As you approach, the beggar's voice rings out—surprisingly clear, with an odd resonance that seems to echo from somewhere beyond the mortal plane.
+
+**SPENDING ENCOUNTER: THE BEGGAR WHO IS A GOD**
+(After Cameo 6 - Players likely have 40-55 coins)
+
+---
+
+**DM NARRATION:**
 **Beggar:** "Kind traveler. Spare a coin for one less fortunate? Even the smallest kindness can echo through eternity."
-There's something about those words. Something about the way the air shimmers slightly around this figure. Something that makes you wonder if this encounter is exactly what it appears to be.
-**Beggar:** "Or perhaps you have nothing to give? That too reveals much about a person's heart."
-The hooded figure sits in patient silence, waiting to see what you'll choose.
-SPENDING ENCOUNTER 4: THE BEGGAR WHO IS A GOD
-After Cameo 7
- 
-(Players likely have 8-20 coins)
-OUTCOMES BASED ON GENEROSITY:
-GIVE NOTHING (0 coins):
-The beggar nods sadly and disappears
-Mechanical Benefit:
- None
-GIVE A LITTLE (1 coin):
-"Bless you, kind soul." The beggar smiles warmly
-Mechanical Benefit:
- +1 to all Charisma-based d10 rolls for the next encounter
-GIVE MODERATELY (2-3 coins):
-The beggar's eyes 
-sparkle
-. "Such kindness! May fortune smile upon you."
-Mechanical Benefit:
- Gain "Karma Token" - Once during the adventure, reroll any d10 and add +2 to the new result
-GIVE GENEROUSLY (4-6 coins):
-The beggar stands straighter. "You have a pure heart, traveler."
-Mechanical Benefit:
- For the next 2 encounters, all your d10 rolls have a minimum value of 4
-GIVE SACRIFICIALLY (7-10 coins):
-The beggar transforms into a radiant divine being! "I am Orin, God of Travelers. Your compassion has been noted."
-Mechanical Benefit:
- "Divine Boon" - For the rest of the adventure, whenever you help another player or act compassionately, both you and that player gain +2 to your next d10 roll
-LEGENDARY OUTCOME: Give everything you have (11+ coins, all remaining):
-The god reveals himself in full glory! "Such selflessness! You shall be rewarded beyond measure!"
-Mechanical Benefit:
- "Avatar of Mercy" - You gain +1 to ALL d10 rolls for the rest of the adventure, AND you can grant this bonus to any other player once per encounter
+
+There's something about those words. The air shimmers slightly around this figure. You sense this encounter is more than it appears.
+
+"Or perhaps..." *the beggar's voice takes on a knowing tone,* "...you might try to perceive my true nature? That too reveals much about a person's heart."
+
+---
+
+### **TIER 1 - SMALL KINDNESS (3-5 coins)**
+
+**MODEST DONATION (3 coins):**
+- Give a few coins to help
+- **Benefit:** +2 to all CHA rolls for your next encounter
+
+**CHARITABLE GIFT (5 coins):**
+- Give with genuine kindness
+- **Benefit:** "Karma Token" - Reroll any failed roll once during your journey, add +2 to new result
+
+---
+
+### **TIER 2 - GENEROUS HEART (8-12 coins)**
+
+**GENEROUS OFFERING (8 coins):**
+- Give significantly to help
+- **Benefit:** Minimum roll insurance - For next 2 encounters, if you roll 6 or below, treat it as 7
+
+**COMPASSIONATE GIFT (12 coins):**
+- Give with deep compassion
+- **Benefit:** "Divine Boon" - When you help another player, both of you gain +2 to your next roll (works 3 times)
+
+---
+
+### **TIER 3 - SELFLESS SACRIFICE (18-25 coins)**
+
+**SACRIFICIAL DONATION (18 coins):**
+- Give a substantial amount
+- **Benefit:** The beggar transforms! "I am Orin, God of Travelers!" - +1 to ALL rolls for next 3 encounters
+
+**ULTIMATE COMPASSION (25 coins):**
+- Give generously despite the cost
+- **Benefit:** "Avatar of Mercy" - Permanent +1 to all rolls for rest of adventure + grant this bonus to any ally once per encounter
+
+---
+
+### **FREE OPTION - PERCEIVE THE DIVINE (Risky!)**
+
+**"SEE THROUGH THE DISGUISE" (No coins, but risky)**
+
+You sense something divine about this figure. Perhaps you can see through the disguise and earn a blessing through wisdom rather than coin?
+
+**Roll WIS or CHA + d20**
+- **18+ or Natural 20:** You see the truth! Divine light surrounds the figure!
+  - The beggar transforms: "I am Orin, God of Travelers! Your perception honors me!"
+  - **REWARD:** Choose any TIER 1 or TIER 2 blessing FOR FREE + "I've been watching all three of you. You walk alone but are more connected than you realize."
+
+- **10-17:** You sense something unusual but can't quite grasp it. The beggar smiles gently: "Your instincts are good, but not quite enough for a free blessing. You may still donate if you wish."
+
+- **1-9:** You completely misread the situation. The beggar's expression saddens: "You see only what you expect to see, not what truly is. I cannot bless one so blind." **(LOSE THE CHANCE TO DONATE - encounter over)**
+
+---
+
+**DM NOTE:** After a successful transaction or perception, the beggar/god says:
+
+"I've been watching all three of you. You walk alone but are more connected than you realize. In a moment, you'll experience a vision. Don't be afraid—it's a gift."
+
+**NOTE: This sets up the Midpoint Vision!**
+
+**[Players mark -coins spent, +blessing gained, and +1 stat point (now at 22 total)]**
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #5
@@ -2619,213 +2681,105 @@ RANDOM ENCOUNTER: VENDOR (After Cameo 5s)
 # RANDOM ENCOUNTER: VENDOR
 ====================================================================================================
 ====================================================================================================
-ENCOUNTER 4: THE WANDERING VENDOR
-FOCUS: INTELLIGENCE | LEGENDARY REWARD: Tome of Ancient Knowledge
-SETUP:
-YOU:
-"The path winds through rocky terrain. You hear jingling bells and creaking wheels.
-Around the bend comes a colorful cart pulled by a donkey wearing a wizard hat. Driving it is a wild-bearded merchant in mismatched clothing.
-He spots you and his eyes light up."
-VENDOR:
-"GREETINGS! I am Barnaby 
-Tinkerton
-, purveyor of LEGENDARY ARTIFACTS! Everything must GO!"
-Gestures dramatically to his wares
-YOU:
-"The cart is packed with items. Most look ridiculous. But one catches your eye:
-A leather-bound 
-Tome
- with glowing silver runes - clearly REAL magic. It radiates power. Among all the junk, THIS is genuine.
-The Vendor is pulling out items:"
-VENDOR:
-"BEHOLD!
-SWORD OF +1 SHARPNESS!
- - It's sharp! 8 coins! 
-BOOTS OF WALKING!
- - You can WALK! 6 coins! 
-POTION OF LIQUID!
- - Pure liquid essence! 4 coins! 
-INVISIBLE CLOAK!
- - So invisible YOU can't see it! 10 coins! 
-RING OF FINGER DECORATION!
- - Makes your finger FANCY! 5 coins! 
-HELMET OF HEAD PROTECTION!
- - Protects your head! 7 coins!
-And THIS old book - 
-TOME OF ANCIENT KNOWLEDGE!
- Very ancient! Probably! 15 coins!"
-Sets
- the glowing Tome down casually among the junk
-YOU:
-"Current coins: [check sheets]
-Options:
-Buy items
- - Purchase anything (discover what's real/fake)
-Analyze items
- - Intelligence check, HARD (need 9+) to identify the real one
-Call out scam
- - Int/Charisma (need 7+)
-Haggle
- - Charisma (need 7+) for discount
-Steal Tome
- - Dexterity, VERY HARD (need 11+)
-Intimidate
- - Str/Charisma (need 7+)
-Ask for genuine help
- - Wis/Charisma (need 7+)
-Walk away
-What do you do?"
-OUTCOMES:
-OPTION 1: BUY ITEMS
-IF THEY BUY JUNK:
-VENDOR:
- "EXCELLENT CHOICE!"
-Takes coins
-"Want to test it?"
-THE REVEALS:
-Sword:
- It's just sharp. Nothing special. Wasted 8 coins.
-Boots:
- They let you walk. You could already walk. 
-Wasted
- 6 coins.
-Potion:
- It's water. Fancy water. 
-Wasted
- 4 coins.
-Invisible Cloak:
- There is no cloak. He mimed it. You paid 10 coins for nothing.
-Ring:
- It decorates your finger. That's it. Wasted 5 coins.
-Helmet:
- Regular helmet. 
-Wasted
- 7 coins.
-IF THEY BUY THE TOME:
-"You pay 15 coins. The moment you touch it, power surges through you. The runes glow brighter.
-Opening it, you see arcane symbols, ancient languages, and a section on 
-DEFEATING CREATURES OF DARKNESS AND VOID.
-WRITE DOWN:
-LEGENDARY ITEM: Tome of Ancient Knowledge
- - In final boss fight, consult it ONCE to learn boss's current weakness. DM tells 
-you
- the optimal strategy for that moment.
-You got the real deal!"
-OPTION 2: ANALYZE (INTELLIGENCE 9+) - SMART PATH TO LEGENDARY
-[ROLL d10 + INTELLIGENCE]
-SUCCESS (9+) - INTELLIGENCE MASTER MOMENT:
-"You examine each item carefully:
-Sword - just sharp metal, no magic Boots - just leather and stitching Potion - you smell it. It's water. Invisible Cloak - there's nothing there. He's selling air. Ring and Helmet - ordinary items with fancy names
-BUT the Tome... you feel REAL magic. The runes are etched with power. Ancient arcane knowledge inside. This is the ONLY real item!
-What do you do?
-A) Buy the Tome
- (15 coins) - You know it's real 
-B) Expose his scam
- - Confront him 
-C) Negotiate
- - Use your knowledge for a better deal"
-[IF THEY CHOOSE B: EXPOSE:]
-VENDOR:
- 
-Deflates
- "Okay, you got me. Most of this is... creative advertising. But 
-the Tome
- IS real. I'll sell it to you for 10 coins since you caught me."
-"You save 5 coins! Get the Tome for 10. Write it down."
-[IF THEY CHOOSE C: NEGOTIATE:]
-VENDOR:
- "Alright, you're sharp. 12 coins. Deal."
-"You save 3 coins!"
-FAILURE (8 or less):
- "You can't tell what's real and what's fake. They all look impressive. You'll have to risk buying or try something else."
-OPTION 3: CALL OUT SCAM (INT/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-VENDOR:
- 
-Nervous laugh
- "Okay, OKAY. Most 
-is
- exaggerated marketing. But 
-the TOME
- is genuine. I'll sell it to you for 12 coins since you caught me."
-FAILURE (6 or less):
-VENDOR:
- "FAKE?! How DARE you!"
-Offended, raises all prices by 2 coins
-"Tome is now 17 coins if you want it!"
-OPTION 4: HAGGLE (CHARISMA 7+)
-[ROLL d10 + CHARISMA]
-SUCCESS (7+):
- "He'll give you 3 coins off any item! Tome would be 12 coins."
-FAILURE (6 or less):
- "Prices are FIRM!"
-OPTION 5: STEAL (DEXTERITY 11+)
-[ROLL d10 + DEXTERITY]
-SUCCESS (11+):
- "You smoothly slip 
-the Tome
- under your cloak while he's distracted. You got it free!
-BUT: 
-THIEF'S KARMA: -1 to all checks for NEXT encounter
- (Cursed Warrior)."
-FAILURE (10 or less):
-VENDOR:
- 
-Catches you
- "THIEF!"
-Donkey KICKS at you
-"Chaos! You lose 5 coins as they scatter. You're kicked away. Encounter over, you failed."
-OPTION 6: INTIMIDATE (STR/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-VENDOR:
- 
-Scared
- "Don't hurt me! Take 
-the Tome
-! Free!"
-"You get it free, but karma may come back later..."
-FAILURE (6 or less):
-VENDOR:
- 
-Whistles
-Three large BANDITS step out
-"They menace you. You pay 3 coins as 'protection money' and leave. Encounter over."
-OPTION 7: ASK FOR HELP (WIS/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-PLAYER:
- "Please. We're on a quest to save someone. We're facing the Void Tyrant. If you have anything real that could help, we need it."
-VENDOR:
- 
-His act drops. Serious.
-"The Void Tyrant? You're really going after him?"
-Holds up the Tome
-"This is real. I found it where a previous hero fell trying to stop him. I didn't know who to give it to."
-Hands it to you
-"Take it. No charge. Inside is knowledge about defeating creatures of void and darkness. Use it wisely."
-PLUS:
- "The Tyrant feeds on fear and despair. Show weakness, he exploits it. Stand together, strong and unafraid, his power diminishes."
-"You get the Tome FREE + a crucial boss hint!"
-FAILURE (6 or less):
-VENDOR:
- 
-Still in salesman mode
-"Then you DEFINITELY need my items! 15 coins for the book!"
-OPTION 8: WALK AWAY
-"You leave. No coins spent, but you missed the Tome - the only real Intelligence legendary item. Encounter over."
-ENDING:
-VENDOR:
-"Safe travels! Barnaby Tinkerton's wares are LEGENDARY... legendarily priced, anyway!"
-Cart rides away, bells jingling
-YOU:
-"
-Add 1 POINT to any stat
- (now at 24 total points).
-The 
-Shadowspire
- looms closer. One encounter remains..."
+### THE WANDERING VENDOR
+**FOCUS: INTELLIGENCE | LEGENDARY ITEM AVAILABLE: Tome of Ancient Knowledge**
+
+**(After Cameo 5 - Players likely have 40-55 coins)**
+
+---
+
+**DM NARRATION:**
+"You hear jingling bells and creaking wheels. Around a bend comes a colorful cart pulled by a donkey wearing a wizard hat. Driving it is Barnaby Tinkerton, a wild-bearded merchant in mismatched clothing.
+
+He spots you and his eyes light up. 'GREETINGS! Purveyor of LEGENDARY ARTIFACTS! Everything must GO!' He gestures dramatically.
+
+The cart is packed with items. Most look ridiculous. But one catches your eye: a leather-bound Tome with glowing silver runes. Among all the junk, THIS radiates genuine power."
+
+---
+
+### **TIER 1 - TRINKETS & ODDITIES (3-5 coins)**
+
+**Item Slot 1 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +1 to your next roll using a specific stat
+
+**Item Slot 2 (5 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Reroll one failed roll during your journey
+
+---
+
+### **TIER 2 - QUALITY GOODS (10-12 coins)**
+
+**Item Slot 3 (10 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +2 to all rolls for your NEXT encounter
+
+**Item Slot 4 (12 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Once per encounter, add +3 to any roll after seeing result (works for 2 encounters)
+
+---
+
+### **TIER 3 - LEGENDARY TREASURE (20-25 coins)**
+
+**TOME OF ANCIENT KNOWLEDGE (20 coins):**
+- **LEGENDARY ITEM** - Leather-bound tome with glowing runes
+- **Benefit:** In any encounter, consult it ONCE to learn optimal strategy (DM gives you a critical hint)
+
+**Item Slot 5 (25 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Auto-succeed on any ONE check during your entire adventure (stored, use wisely!)
+
+---
+
+### **FREE OPTION - OUTSMART THE VENDOR (Risky!)**
+
+**"DETECT THE SCAM" (No coins, but risky)**
+
+The vendor makes exaggerated claims. You sense most items are worthless. Can you identify the real items and negotiate?
+
+**Roll INT + d20**
+- **18+ or Natural 20:** You see through every trick!
+  - The vendor deflates: "Okay, you got me. You're too smart for my sales pitch."
+  - **REWARD:** Choose any TIER 1 or TIER 2 item at 50% OFF, or get the Tome for only 15 coins! PLUS hint: "The Tyrant feeds on fear. Stand together, unafraid, and his power diminishes."
+
+- **10-17:** You suspect some are fake but can't prove it. "Trust your gut or trust my prices!"
+
+- **1-9:** You fall for the pitch! "A DISCERNING customer! For you, prices increase by 3 coins!" **(All prices increase or LOSE THE CHANCE)**
+
+---
+
+**ALTERNATIVE:** ASK FOR GENUINE HELP (WIS/CHA + d20, need 18+)
+- "Please, we're facing the Void Tyrant. If you have anything real..."
+- **Success:** "The Void Tyrant? Take the Tome. FREE. Use it well."
+- **Fail:** "Then you DEFINITELY need my wares! Full price!"
+
+---
+
+**[Players mark -coins spent, +items gained, and +1 stat point (now at 24 total)]**
+====================================================================================================
+====================================================================================================
+
+========================================================================
+MEAL ENCOUNTER #3: CAMP MEAL (After Vendor)
+========================================================================
+
+**DM NARRATION:**
+"You've reached the designated campsite marked on your map. A small clearing with a fire pit—perfect for rest.
+
+As you set up camp, a traveling merchant approaches with a cart. 'Evening, friend! I sell provisions to travelers. Hot stew and bread, 5 coins. You look like you could use it!'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You enjoy a warm bowl of hearty stew and crusty bread by the fire. The warmth fills you with determination for the journey ahead."
+
+**If player has 0 coins:**
+DM: "The merchant sees your situation and softens. 'You're one of the three heroes, aren't you? Fighting the Void Tyrant? Here—take the food. You'll need your strength.' The merchant gives you 5 coins, which you immediately spend on the meal. (Net: 0, but you're fed!)"
+
+**[Players mark -5 coins]**
+
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #4
@@ -2883,9 +2837,31 @@ Mechanical Benefit:
 PERFECT PROPHECY (10 coins):
 The fortune teller reveals the exact path to victory
 Mechanical Benefit:
- During the final 
+ During the final
 boss
  encounter, you may ask the DM for the optimal choice in any situation once, and they must tell you truthfully
+====================================================================================================
+====================================================================================================
+
+========================================================================
+MEAL ENCOUNTER #4: VILLAGE FEAST (After Cameo 4)
+========================================================================
+
+**DM NARRATION:**
+"You arrive at a small village just as they're preparing for an evening feast. The aroma of roasted vegetables and grilled meats fills the air.
+
+A villager approaches: 'Traveler! Join our feast! 5 coins gets you a plate and a seat at our table. You look weary—come, eat with us!'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You join the villagers for a delicious feast. They share stories and songs, lifting your spirits. You feel strengthened for the final stretch of your journey."
+
+**If player has 0 coins:**
+DM: "The villagers see you have no money. An elder stands: 'This one fights for all of us against the Void Tyrant. We will not let a hero go hungry!' They give you 5 coins and insist you eat. (Net: 0, but you're fed and honored!)"
+
+**[Players mark -5 coins]**
+
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #3
@@ -3244,64 +3220,110 @@ The bard teaches you the ancient Song of Destiny
 Mechanical Benefit:
  During the final encounter, you may perform the song. When you do, ALL players gain +2 to all d10 rolls for that entire encounter
 END GAME VENDOR: GARY'S ABSURD ARTIFACT EMPORIUM
-After Cameo 12
- 
+After all Cameos Complete
+
 (Players likely have 10-40+ coins remaining)
-GARY'S INVENTORY:
-THE PLASTIC FORK OF DESTINY (2 coins):
-Mechanical Benefit:
- +5 to ALL d10 rolls during final boss
-THE SUNGLASSES OF COOL (2 coins):
-Mechanical Benefit:
- +10 to ALL Charisma rolls during final boss
-THE HAT OF ULTIMATE WISDOM (3 coins):
-Mechanical Benefit:
- Automatically succeed on ALL Intelligence and Wisdom checks during final boss
-THE CHEESE GRATER OF SHREDDING (3 coins):
-Mechanical Benefit:
- All your d20 narrative rolls are treated as if you rolled 15 or higher
-THE CROCS OF SWIFTNESS (3 coins):
-Mechanical Benefit:
- +3 to ALL Dexterity rolls, AND you can assist any ally once per round, giving them +2
-THE OVEN MITT OF PROTECTION (2 coins):
-Mechanical Benefit:
- You cannot fail any Constitution checks during the final boss
-THE SACRED POOL NOODLE (4 coins):
-Mechanical Benefit:
- Roll ALL d10s twice and 
-take
- the higher result during final boss
-THE RUBBER CHICKEN (5 coins):
-Mechanical Benefit:
- Once during final boss, squeak the chicken to automatically succeed at ANY roll
-THE FANNY PACK OF HOLDING (4 coins):
-Mechanical Benefit:
- Use ANY item or ability you've acquired twice instead of once
-THE INFLATABLE TUBE MAN ARMS (5 coins):
-Mechanical Benefit:
- ALL party members get +3 to all d10 rolls during final boss
-THE BLUETOOTH SPEAKER (3 coins):
-Mechanical Benefit:
- Everyone gets +2 to ALL rolls during final boss (you play epic music!)
-THE "LIVE, LAUGH, LOVE" SIGN (2 coins):
-Mechanical Benefit:
- +4 to all d20 narrative rolls during final boss
-THE GOOGLY EYES (1 coin for a whole sheet):
-Mechanical Benefit:
- Put on anything - that thing gets +3 to all rolls
-THE PARTICIPATION TROPHY (6 coins):
-Mechanical Benefit:
- You literally cannot fail the final encounter
-THE MYSTERY BAG (??? coins - player names their price):
-Mechanical Benefit:
- Whatever you imagine is real for the final encounter
-GARY'S BUNDLE DEALS:
-"CLEAN OUT MY INVENTORY" (10 coins):
-Get THREE items of your choice
-"I BELIEVE IN YOU" BUNDLE (15 coins):
-Get FIVE items
-"TAKE EVERYTHING" DEAL (All remaining coins, minimum 20):
-Get EVERY ITEM - you're unstoppable
+
+---
+
+### **GARY'S INVENTORY - INDIVIDUAL ITEMS:**
+
+**Item Slot 1 (1 coin):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Put on anything - that thing gets +3 to all rolls
+
+**Item Slot 2 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +5 to ALL rolls during encounters
+
+**Item Slot 3 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +10 to ALL CHA rolls during encounters
+
+**Item Slot 4 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** You cannot fail any CON checks during encounters
+
+**Item Slot 5 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +4 to all d20 narrative rolls during encounters
+
+**Item Slot 6 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Automatically succeed on ALL INT and WIS checks during encounters
+
+**Item Slot 7 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** All your d20 narrative rolls are treated as if you rolled 15 or higher
+
+**Item Slot 8 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +3 to ALL DEX rolls, AND you can assist any ally once per round, giving them +2
+
+**Item Slot 9 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Everyone gets +2 to ALL rolls during encounters
+
+**Item Slot 10 (4 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Roll ALL dice twice and take the higher result during encounters
+
+**Item Slot 11 (4 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Use ANY item or ability you've acquired twice instead of once
+
+**Item Slot 12 (5 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Once during encounters, automatically succeed at ANY roll
+
+**Item Slot 13 (5 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** ALL party members get +3 to all rolls during encounters
+
+**Item Slot 14 (6 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** You literally cannot fail encounters
+
+**Item Slot 15 - MYSTERY ITEM (Player names their price):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Whatever you imagine is real for the encounters
+
+---
+
+### **GARY'S BUNDLE DEALS:**
+
+**"CLEAN OUT MY INVENTORY" (10 coins):**
+- Get THREE items of your choice
+
+**"I BELIEVE IN YOU" BUNDLE (15 coins):**
+- Get FIVE items
+
+**"TAKE EVERYTHING" DEAL (All remaining coins, minimum 20):**
+- Get EVERY ITEM - you're unstoppable
+====================================================================================================
+====================================================================================================
+
+========================================================================
+MEAL ENCOUNTER #5: PRE-BATTLE FEAST (After Cameo 2)
+========================================================================
+
+**DM NARRATION:**
+"Shadowspire Fortress looms in the distance. You're close now—so close to reuniting with your companions and facing the Void Tyrant.
+
+But first, you need strength. You find a last outpost before the fortress—a small tavern run by a grizzled veteran.
+
+'Final meal before the big fight, eh?' the veteran says. 'I've seen many heroes pass through. Not all return. Eat well. 5 coins.'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You eat a substantial meal—meat, potatoes, bread, and strong drink. The veteran toasts to your success. 'Give that Tyrant hell for all of us.' You feel ready for anything."
+
+**If player has 0 coins:**
+DM: "You have no coins. The veteran laughs. 'A hero with an empty purse? I've been there. Eat. No charge. You'll need it more than I need coins.' He gives you 5 coins and pushes the food toward you. (Net: 0, but you're fed and determined!)"
+
+**[Players mark -5 coins]**
+
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #1
@@ -8613,42 +8635,83 @@ The city above seems brighter after the Undercity. Christopher breathes fresh ai
 ### THE BEGGAR WHO IS A GOD
 **Scene Description:**
 At a crossroads, sitting against an old milestone, you find a figure wrapped in tattered robes. A wooden bowl rests before them, containing a few copper coins. The beggar's face is hidden beneath a hood, but weathered hands extend in a gesture both humble and somehow... expectant.
+
 As you approach, the beggar's voice rings out—surprisingly clear, with an odd resonance that seems to echo from somewhere beyond the mortal plane.
+
+**SPENDING ENCOUNTER: THE BEGGAR WHO IS A GOD**
+(After Cameo 6 - Players likely have 40-55 coins)
+
+---
+
+**DM NARRATION:**
 **Beggar:** "Kind traveler. Spare a coin for one less fortunate? Even the smallest kindness can echo through eternity."
-There's something about those words. Something about the way the air shimmers slightly around this figure. Something that makes you wonder if this encounter is exactly what it appears to be.
-**Beggar:** "Or perhaps you have nothing to give? That too reveals much about a person's heart."
-The hooded figure sits in patient silence, waiting to see what you'll choose.
-SPENDING ENCOUNTER 4: THE BEGGAR WHO IS A GOD
-After Cameo 7
- 
-(Players likely have 8-20 coins)
-OUTCOMES BASED ON GENEROSITY:
-GIVE NOTHING (0 coins):
-The beggar nods sadly and disappears
-Mechanical Benefit:
- None
-GIVE A LITTLE (1 coin):
-"Bless you, kind soul." The beggar smiles warmly
-Mechanical Benefit:
- +1 to all Charisma-based d10 rolls for the next encounter
-GIVE MODERATELY (2-3 coins):
-The beggar's eyes 
-sparkle
-. "Such kindness! May fortune smile upon you."
-Mechanical Benefit:
- Gain "Karma Token" - Once during the adventure, reroll any d10 and add +2 to the new result
-GIVE GENEROUSLY (4-6 coins):
-The beggar stands straighter. "You have a pure heart, traveler."
-Mechanical Benefit:
- For the next 2 encounters, all your d10 rolls have a minimum value of 4
-GIVE SACRIFICIALLY (7-10 coins):
-The beggar transforms into a radiant divine being! "I am Orin, God of Travelers. Your compassion has been noted."
-Mechanical Benefit:
- "Divine Boon" - For the rest of the adventure, whenever you help another player or act compassionately, both you and that player gain +2 to your next d10 roll
-LEGENDARY OUTCOME: Give everything you have (11+ coins, all remaining):
-The god reveals himself in full glory! "Such selflessness! You shall be rewarded beyond measure!"
-Mechanical Benefit:
- "Avatar of Mercy" - You gain +1 to ALL d10 rolls for the rest of the adventure, AND you can grant this bonus to any other player once per encounter
+
+There's something about those words. The air shimmers slightly around this figure. You sense this encounter is more than it appears.
+
+"Or perhaps..." *the beggar's voice takes on a knowing tone,* "...you might try to perceive my true nature? That too reveals much about a person's heart."
+
+---
+
+### **TIER 1 - SMALL KINDNESS (3-5 coins)**
+
+**MODEST DONATION (3 coins):**
+- Give a few coins to help
+- **Benefit:** +2 to all CHA rolls for your next encounter
+
+**CHARITABLE GIFT (5 coins):**
+- Give with genuine kindness
+- **Benefit:** "Karma Token" - Reroll any failed roll once during your journey, add +2 to new result
+
+---
+
+### **TIER 2 - GENEROUS HEART (8-12 coins)**
+
+**GENEROUS OFFERING (8 coins):**
+- Give significantly to help
+- **Benefit:** Minimum roll insurance - For next 2 encounters, if you roll 6 or below, treat it as 7
+
+**COMPASSIONATE GIFT (12 coins):**
+- Give with deep compassion
+- **Benefit:** "Divine Boon" - When you help another player, both of you gain +2 to your next roll (works 3 times)
+
+---
+
+### **TIER 3 - SELFLESS SACRIFICE (18-25 coins)**
+
+**SACRIFICIAL DONATION (18 coins):**
+- Give a substantial amount
+- **Benefit:** The beggar transforms! "I am Orin, God of Travelers!" - +1 to ALL rolls for next 3 encounters
+
+**ULTIMATE COMPASSION (25 coins):**
+- Give generously despite the cost
+- **Benefit:** "Avatar of Mercy" - Permanent +1 to all rolls for rest of adventure + grant this bonus to any ally once per encounter
+
+---
+
+### **FREE OPTION - PERCEIVE THE DIVINE (Risky!)**
+
+**"SEE THROUGH THE DISGUISE" (No coins, but risky)**
+
+You sense something divine about this figure. Perhaps you can see through the disguise and earn a blessing through wisdom rather than coin?
+
+**Roll WIS or CHA + d20**
+- **18+ or Natural 20:** You see the truth! Divine light surrounds the figure!
+  - The beggar transforms: "I am Orin, God of Travelers! Your perception honors me!"
+  - **REWARD:** Choose any TIER 1 or TIER 2 blessing FOR FREE + "I've been watching all three of you. You walk alone but are more connected than you realize."
+
+- **10-17:** You sense something unusual but can't quite grasp it. The beggar smiles gently: "Your instincts are good, but not quite enough for a free blessing. You may still donate if you wish."
+
+- **1-9:** You completely misread the situation. The beggar's expression saddens: "You see only what you expect to see, not what truly is. I cannot bless one so blind." **(LOSE THE CHANCE TO DONATE - encounter over)**
+
+---
+
+**DM NOTE:** After a successful transaction or perception, the beggar/god says:
+
+"I've been watching all three of you. You walk alone but are more connected than you realize. In a moment, you'll experience a vision. Don't be afraid—it's a gift."
+
+**NOTE: This sets up the Midpoint Vision!**
+
+**[Players mark -coins spent, +blessing gained, and +1 stat point (now at 22 total)]**
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #5
@@ -9098,213 +9161,105 @@ He looks up as Lena approaches, his face friendly and welcoming, knife in hand b
 # RANDOM ENCOUNTER: VENDOR
 ====================================================================================================
 ====================================================================================================
-ENCOUNTER 4: THE WANDERING VENDOR
-FOCUS: INTELLIGENCE | LEGENDARY REWARD: Tome of Ancient Knowledge
-SETUP:
-YOU:
-"The path winds through rocky terrain. You hear jingling bells and creaking wheels.
-Around the bend comes a colorful cart pulled by a donkey wearing a wizard hat. Driving it is a wild-bearded merchant in mismatched clothing.
-He spots you and his eyes light up."
-VENDOR:
-"GREETINGS! I am Barnaby 
-Tinkerton
-, purveyor of LEGENDARY ARTIFACTS! Everything must GO!"
-Gestures dramatically to his wares
-YOU:
-"The cart is packed with items. Most look ridiculous. But one catches your eye:
-A leather-bound 
-Tome
- with glowing silver runes - clearly REAL magic. It radiates power. Among all the junk, THIS is genuine.
-The Vendor is pulling out items:"
-VENDOR:
-"BEHOLD!
-SWORD OF +1 SHARPNESS!
- - It's sharp! 8 coins! 
-BOOTS OF WALKING!
- - You can WALK! 6 coins! 
-POTION OF LIQUID!
- - Pure liquid essence! 4 coins! 
-INVISIBLE CLOAK!
- - So invisible YOU can't see it! 10 coins! 
-RING OF FINGER DECORATION!
- - Makes your finger FANCY! 5 coins! 
-HELMET OF HEAD PROTECTION!
- - Protects your head! 7 coins!
-And THIS old book - 
-TOME OF ANCIENT KNOWLEDGE!
- Very ancient! Probably! 15 coins!"
-Sets
- the glowing Tome down casually among the junk
-YOU:
-"Current coins: [check sheets]
-Options:
-Buy items
- - Purchase anything (discover what's real/fake)
-Analyze items
- - Intelligence check, HARD (need 9+) to identify the real one
-Call out scam
- - Int/Charisma (need 7+)
-Haggle
- - Charisma (need 7+) for discount
-Steal Tome
- - Dexterity, VERY HARD (need 11+)
-Intimidate
- - Str/Charisma (need 7+)
-Ask for genuine help
- - Wis/Charisma (need 7+)
-Walk away
-What do you do?"
-OUTCOMES:
-OPTION 1: BUY ITEMS
-IF THEY BUY JUNK:
-VENDOR:
- "EXCELLENT CHOICE!"
-Takes coins
-"Want to test it?"
-THE REVEALS:
-Sword:
- It's just sharp. Nothing special. Wasted 8 coins.
-Boots:
- They let you walk. You could already walk. 
-Wasted
- 6 coins.
-Potion:
- It's water. Fancy water. 
-Wasted
- 4 coins.
-Invisible Cloak:
- There is no cloak. He mimed it. You paid 10 coins for nothing.
-Ring:
- It decorates your finger. That's it. Wasted 5 coins.
-Helmet:
- Regular helmet. 
-Wasted
- 7 coins.
-IF THEY BUY THE TOME:
-"You pay 15 coins. The moment you touch it, power surges through you. The runes glow brighter.
-Opening it, you see arcane symbols, ancient languages, and a section on 
-DEFEATING CREATURES OF DARKNESS AND VOID.
-WRITE DOWN:
-LEGENDARY ITEM: Tome of Ancient Knowledge
- - In final boss fight, consult it ONCE to learn boss's current weakness. DM tells 
-you
- the optimal strategy for that moment.
-You got the real deal!"
-OPTION 2: ANALYZE (INTELLIGENCE 9+) - SMART PATH TO LEGENDARY
-[ROLL d10 + INTELLIGENCE]
-SUCCESS (9+) - INTELLIGENCE MASTER MOMENT:
-"You examine each item carefully:
-Sword - just sharp metal, no magic Boots - just leather and stitching Potion - you smell it. It's water. Invisible Cloak - there's nothing there. He's selling air. Ring and Helmet - ordinary items with fancy names
-BUT the Tome... you feel REAL magic. The runes are etched with power. Ancient arcane knowledge inside. This is the ONLY real item!
-What do you do?
-A) Buy the Tome
- (15 coins) - You know it's real 
-B) Expose his scam
- - Confront him 
-C) Negotiate
- - Use your knowledge for a better deal"
-[IF THEY CHOOSE B: EXPOSE:]
-VENDOR:
- 
-Deflates
- "Okay, you got me. Most of this is... creative advertising. But 
-the Tome
- IS real. I'll sell it to you for 10 coins since you caught me."
-"You save 5 coins! Get the Tome for 10. Write it down."
-[IF THEY CHOOSE C: NEGOTIATE:]
-VENDOR:
- "Alright, you're sharp. 12 coins. Deal."
-"You save 3 coins!"
-FAILURE (8 or less):
- "You can't tell what's real and what's fake. They all look impressive. You'll have to risk buying or try something else."
-OPTION 3: CALL OUT SCAM (INT/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-VENDOR:
- 
-Nervous laugh
- "Okay, OKAY. Most 
-is
- exaggerated marketing. But 
-the TOME
- is genuine. I'll sell it to you for 12 coins since you caught me."
-FAILURE (6 or less):
-VENDOR:
- "FAKE?! How DARE you!"
-Offended, raises all prices by 2 coins
-"Tome is now 17 coins if you want it!"
-OPTION 4: HAGGLE (CHARISMA 7+)
-[ROLL d10 + CHARISMA]
-SUCCESS (7+):
- "He'll give you 3 coins off any item! Tome would be 12 coins."
-FAILURE (6 or less):
- "Prices are FIRM!"
-OPTION 5: STEAL (DEXTERITY 11+)
-[ROLL d10 + DEXTERITY]
-SUCCESS (11+):
- "You smoothly slip 
-the Tome
- under your cloak while he's distracted. You got it free!
-BUT: 
-THIEF'S KARMA: -1 to all checks for NEXT encounter
- (Cursed Warrior)."
-FAILURE (10 or less):
-VENDOR:
- 
-Catches you
- "THIEF!"
-Donkey KICKS at you
-"Chaos! You lose 5 coins as they scatter. You're kicked away. Encounter over, you failed."
-OPTION 6: INTIMIDATE (STR/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-VENDOR:
- 
-Scared
- "Don't hurt me! Take 
-the Tome
-! Free!"
-"You get it free, but karma may come back later..."
-FAILURE (6 or less):
-VENDOR:
- 
-Whistles
-Three large BANDITS step out
-"They menace you. You pay 3 coins as 'protection money' and leave. Encounter over."
-OPTION 7: ASK FOR HELP (WIS/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-PLAYER:
- "Please. We're on a quest to save someone. We're facing the Void Tyrant. If you have anything real that could help, we need it."
-VENDOR:
- 
-His act drops. Serious.
-"The Void Tyrant? You're really going after him?"
-Holds up the Tome
-"This is real. I found it where a previous hero fell trying to stop him. I didn't know who to give it to."
-Hands it to you
-"Take it. No charge. Inside is knowledge about defeating creatures of void and darkness. Use it wisely."
-PLUS:
- "The Tyrant feeds on fear and despair. Show weakness, he exploits it. Stand together, strong and unafraid, his power diminishes."
-"You get the Tome FREE + a crucial boss hint!"
-FAILURE (6 or less):
-VENDOR:
- 
-Still in salesman mode
-"Then you DEFINITELY need my items! 15 coins for the book!"
-OPTION 8: WALK AWAY
-"You leave. No coins spent, but you missed the Tome - the only real Intelligence legendary item. Encounter over."
-ENDING:
-VENDOR:
-"Safe travels! Barnaby Tinkerton's wares are LEGENDARY... legendarily priced, anyway!"
-Cart rides away, bells jingling
-YOU:
-"
-Add 1 POINT to any stat
- (now at 24 total points).
-The 
-Shadowspire
- looms closer. One encounter remains..."
+### THE WANDERING VENDOR
+**FOCUS: INTELLIGENCE | LEGENDARY ITEM AVAILABLE: Tome of Ancient Knowledge**
+
+**(After Cameo 5 - Players likely have 40-55 coins)**
+
+---
+
+**DM NARRATION:**
+"You hear jingling bells and creaking wheels. Around a bend comes a colorful cart pulled by a donkey wearing a wizard hat. Driving it is Barnaby Tinkerton, a wild-bearded merchant in mismatched clothing.
+
+He spots you and his eyes light up. 'GREETINGS! Purveyor of LEGENDARY ARTIFACTS! Everything must GO!' He gestures dramatically.
+
+The cart is packed with items. Most look ridiculous. But one catches your eye: a leather-bound Tome with glowing silver runes. Among all the junk, THIS radiates genuine power."
+
+---
+
+### **TIER 1 - TRINKETS & ODDITIES (3-5 coins)**
+
+**Item Slot 1 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +1 to your next roll using a specific stat
+
+**Item Slot 2 (5 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Reroll one failed roll during your journey
+
+---
+
+### **TIER 2 - QUALITY GOODS (10-12 coins)**
+
+**Item Slot 3 (10 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +2 to all rolls for your NEXT encounter
+
+**Item Slot 4 (12 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Once per encounter, add +3 to any roll after seeing result (works for 2 encounters)
+
+---
+
+### **TIER 3 - LEGENDARY TREASURE (20-25 coins)**
+
+**TOME OF ANCIENT KNOWLEDGE (20 coins):**
+- **LEGENDARY ITEM** - Leather-bound tome with glowing runes
+- **Benefit:** In any encounter, consult it ONCE to learn optimal strategy (DM gives you a critical hint)
+
+**Item Slot 5 (25 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Auto-succeed on any ONE check during your entire adventure (stored, use wisely!)
+
+---
+
+### **FREE OPTION - OUTSMART THE VENDOR (Risky!)**
+
+**"DETECT THE SCAM" (No coins, but risky)**
+
+The vendor makes exaggerated claims. You sense most items are worthless. Can you identify the real items and negotiate?
+
+**Roll INT + d20**
+- **18+ or Natural 20:** You see through every trick!
+  - The vendor deflates: "Okay, you got me. You're too smart for my sales pitch."
+  - **REWARD:** Choose any TIER 1 or TIER 2 item at 50% OFF, or get the Tome for only 15 coins! PLUS hint: "The Tyrant feeds on fear. Stand together, unafraid, and his power diminishes."
+
+- **10-17:** You suspect some are fake but can't prove it. "Trust your gut or trust my prices!"
+
+- **1-9:** You fall for the pitch! "A DISCERNING customer! For you, prices increase by 3 coins!" **(All prices increase or LOSE THE CHANCE)**
+
+---
+
+**ALTERNATIVE:** ASK FOR GENUINE HELP (WIS/CHA + d20, need 18+)
+- "Please, we're facing the Void Tyrant. If you have anything real..."
+- **Success:** "The Void Tyrant? Take the Tome. FREE. Use it well."
+- **Fail:** "Then you DEFINITELY need my wares! Full price!"
+
+---
+
+**[Players mark -coins spent, +items gained, and +1 stat point (now at 24 total)]**
+====================================================================================================
+====================================================================================================
+
+========================================================================
+MEAL ENCOUNTER #3: CAMP MEAL (After Vendor)
+========================================================================
+
+**DM NARRATION:**
+"You've reached the designated campsite marked on your map. A small clearing with a fire pit—perfect for rest.
+
+As you set up camp, a traveling merchant approaches with a cart. 'Evening, friend! I sell provisions to travelers. Hot stew and bread, 5 coins. You look like you could use it!'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You enjoy a warm bowl of hearty stew and crusty bread by the fire. The warmth fills you with determination for the journey ahead."
+
+**If player has 0 coins:**
+DM: "The merchant sees your situation and softens. 'You're one of the three heroes, aren't you? Fighting the Void Tyrant? Here—take the food. You'll need your strength.' The merchant gives you 5 coins, which you immediately spend on the meal. (Net: 0, but you're fed!)"
+
+**[Players mark -5 coins]**
+
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #4
@@ -9712,9 +9667,31 @@ Mechanical Benefit:
 PERFECT PROPHECY (10 coins):
 The fortune teller reveals the exact path to victory
 Mechanical Benefit:
- During the final 
+ During the final
 boss
  encounter, you may ask the DM for the optimal choice in any situation once, and they must tell you truthfully
+====================================================================================================
+====================================================================================================
+
+========================================================================
+MEAL ENCOUNTER #4: VILLAGE FEAST (After Cameo 4)
+========================================================================
+
+**DM NARRATION:**
+"You arrive at a small village just as they're preparing for an evening feast. The aroma of roasted vegetables and grilled meats fills the air.
+
+A villager approaches: 'Traveler! Join our feast! 5 coins gets you a plate and a seat at our table. You look weary—come, eat with us!'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You join the villagers for a delicious feast. They share stories and songs, lifting your spirits. You feel strengthened for the final stretch of your journey."
+
+**If player has 0 coins:**
+DM: "The villagers see you have no money. An elder stands: 'This one fights for all of us against the Void Tyrant. We will not let a hero go hungry!' They give you 5 coins and insist you eat. (Net: 0, but you're fed and honored!)"
+
+**[Players mark -5 coins]**
+
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #3
@@ -10810,64 +10787,110 @@ The bard teaches you the ancient Song of Destiny
 Mechanical Benefit:
  During the final encounter, you may perform the song. When you do, ALL players gain +2 to all d10 rolls for that entire encounter
 END GAME VENDOR: GARY'S ABSURD ARTIFACT EMPORIUM
-After Cameo 12
- 
+After all Cameos Complete
+
 (Players likely have 10-40+ coins remaining)
-GARY'S INVENTORY:
-THE PLASTIC FORK OF DESTINY (2 coins):
-Mechanical Benefit:
- +5 to ALL d10 rolls during final boss
-THE SUNGLASSES OF COOL (2 coins):
-Mechanical Benefit:
- +10 to ALL Charisma rolls during final boss
-THE HAT OF ULTIMATE WISDOM (3 coins):
-Mechanical Benefit:
- Automatically succeed on ALL Intelligence and Wisdom checks during final boss
-THE CHEESE GRATER OF SHREDDING (3 coins):
-Mechanical Benefit:
- All your d20 narrative rolls are treated as if you rolled 15 or higher
-THE CROCS OF SWIFTNESS (3 coins):
-Mechanical Benefit:
- +3 to ALL Dexterity rolls, AND you can assist any ally once per round, giving them +2
-THE OVEN MITT OF PROTECTION (2 coins):
-Mechanical Benefit:
- You cannot fail any Constitution checks during the final boss
-THE SACRED POOL NOODLE (4 coins):
-Mechanical Benefit:
- Roll ALL d10s twice and 
-take
- the higher result during final boss
-THE RUBBER CHICKEN (5 coins):
-Mechanical Benefit:
- Once during final boss, squeak the chicken to automatically succeed at ANY roll
-THE FANNY PACK OF HOLDING (4 coins):
-Mechanical Benefit:
- Use ANY item or ability you've acquired twice instead of once
-THE INFLATABLE TUBE MAN ARMS (5 coins):
-Mechanical Benefit:
- ALL party members get +3 to all d10 rolls during final boss
-THE BLUETOOTH SPEAKER (3 coins):
-Mechanical Benefit:
- Everyone gets +2 to ALL rolls during final boss (you play epic music!)
-THE "LIVE, LAUGH, LOVE" SIGN (2 coins):
-Mechanical Benefit:
- +4 to all d20 narrative rolls during final boss
-THE GOOGLY EYES (1 coin for a whole sheet):
-Mechanical Benefit:
- Put on anything - that thing gets +3 to all rolls
-THE PARTICIPATION TROPHY (6 coins):
-Mechanical Benefit:
- You literally cannot fail the final encounter
-THE MYSTERY BAG (??? coins - player names their price):
-Mechanical Benefit:
- Whatever you imagine is real for the final encounter
-GARY'S BUNDLE DEALS:
-"CLEAN OUT MY INVENTORY" (10 coins):
-Get THREE items of your choice
-"I BELIEVE IN YOU" BUNDLE (15 coins):
-Get FIVE items
-"TAKE EVERYTHING" DEAL (All remaining coins, minimum 20):
-Get EVERY ITEM - you're unstoppable
+
+---
+
+### **GARY'S INVENTORY - INDIVIDUAL ITEMS:**
+
+**Item Slot 1 (1 coin):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Put on anything - that thing gets +3 to all rolls
+
+**Item Slot 2 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +5 to ALL rolls during encounters
+
+**Item Slot 3 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +10 to ALL CHA rolls during encounters
+
+**Item Slot 4 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** You cannot fail any CON checks during encounters
+
+**Item Slot 5 (2 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +4 to all d20 narrative rolls during encounters
+
+**Item Slot 6 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Automatically succeed on ALL INT and WIS checks during encounters
+
+**Item Slot 7 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** All your d20 narrative rolls are treated as if you rolled 15 or higher
+
+**Item Slot 8 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** +3 to ALL DEX rolls, AND you can assist any ally once per round, giving them +2
+
+**Item Slot 9 (3 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Everyone gets +2 to ALL rolls during encounters
+
+**Item Slot 10 (4 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Roll ALL dice twice and take the higher result during encounters
+
+**Item Slot 11 (4 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Use ANY item or ability you've acquired twice instead of once
+
+**Item Slot 12 (5 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Once during encounters, automatically succeed at ANY roll
+
+**Item Slot 13 (5 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** ALL party members get +3 to all rolls during encounters
+
+**Item Slot 14 (6 coins):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** You literally cannot fail encounters
+
+**Item Slot 15 - MYSTERY ITEM (Player names their price):**
+- **[USER WILL INSERT ITEM NAME]**
+- **Benefit:** Whatever you imagine is real for the encounters
+
+---
+
+### **GARY'S BUNDLE DEALS:**
+
+**"CLEAN OUT MY INVENTORY" (10 coins):**
+- Get THREE items of your choice
+
+**"I BELIEVE IN YOU" BUNDLE (15 coins):**
+- Get FIVE items
+
+**"TAKE EVERYTHING" DEAL (All remaining coins, minimum 20):**
+- Get EVERY ITEM - you're unstoppable
+====================================================================================================
+====================================================================================================
+
+========================================================================
+MEAL ENCOUNTER #5: PRE-BATTLE FEAST (After Cameo 2)
+========================================================================
+
+**DM NARRATION:**
+"Shadowspire Fortress looms in the distance. You're close now—so close to reuniting with your companions and facing the Void Tyrant.
+
+But first, you need strength. You find a last outpost before the fortress—a small tavern run by a grizzled veteran.
+
+'Final meal before the big fight, eh?' the veteran says. 'I've seen many heroes pass through. Not all return. Eat well. 5 coins.'"
+
+**MEAL COST: 5 coins**
+
+**If player pays:**
+"You eat a substantial meal—meat, potatoes, bread, and strong drink. The veteran toasts to your success. 'Give that Tyrant hell for all of us.' You feel ready for anything."
+
+**If player has 0 coins:**
+DM: "You have no coins. The veteran laughs. 'A hero with an empty purse? I've been there. Eat. No charge. You'll need it more than I need coins.' He gives you 5 coins and pushes the food toward you. (Net: 0, but you're fed and determined!)"
+
+**[Players mark -5 coins]**
+
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #1
