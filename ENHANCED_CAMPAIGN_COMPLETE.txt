@@ -2146,125 +2146,97 @@ RANDOM ENCOUNTER: GAMBLER (After Cameo 9s)
 # RANDOM ENCOUNTER: GAMBLER
 ====================================================================================================
 ====================================================================================================
-ENCOUNTER 2: THE GAMBLER
-FOCUS: DEXTERITY | LEGENDARY REWARD: Lucky Coin
-SETUP:
-YOU:
-"You arrive at a run-down tavern called 'The Broken Coin.' Inside, rough-looking criminals eye you suspiciously.
-In the back corner, a slick gambler in a worn velvet coat shuffles three cards with lightning speed. A pile of 20+ coins sits beside him - he's been winning big.
-He grins, gold tooth glinting."
-GAMBLER:
-"Step right up! Find the Queen of Hearts! 3 coins to play, win 8 coins! More than double your money!"
-Briefly shows: Queen of Hearts, King of Spades, King of Clubs
-"Watch closely..."
-Shuffles rapidly, then stops
-"Who's feeling lucky?"
-YOU:
-"Current coins: [check sheets]
-Options:
-Play once
- - Pay 3 coins, Dexterity check (need 7+)
-Don't play
- - Walk away
-Study his pattern first
- - Intelligence check (need 7+) to gain advantage
-Catch him cheating
- - Int/Wisdom check, HARD (need 9+)
-Cheat back
- - Dexterity check, VERY HARD (need 11+)
-Intimidate
- - Str/Charisma (need 7+)
-What do you do?"
-OUTCOMES:
-OPTION 1: PLAY ONCE (DEXTERITY 7+)
-[SHUFFLE THREE CARDS IRL - player watches]
-"Which card? Left, middle, or right?"
-[PLAYER CHOOSES, THEN ROLLS d10 + DEXTERITY]
-SUCCESS (7+) AND CORRECT CARD:
-GAMBLER:
- "You tracked her! Incredible!"
-"You WIN 8 coins! (Net profit: +5 coins)"
-GAMBLER:
- "Want to go again? DOUBLE OR NOTHING - bet 6 coins, win 16!"
-[This 
-begins
- the HOT STREAK path - see below]
-FAILURE OR WRONG CARD:
- "You lose 3 coins. 
-Want
- to try again?"
-HOT STREAK PATH (For Dexterity Specialists):
-ROUND 2:
- Bet 6 coins, win 16 (need 7+) 
-ROUND 3:
- Bet 12 coins, win 30 (need 8+)
-IF THEY WIN ALL THREE ROUNDS - LEGENDARY REWARD:
-GAMBLER:
- "THREE IN A ROW?! I've never... you have THE GIFT."
-Pulls
- out an old, warm coin
-"This 
-Lucky Coin
- was given to me by my mentor. It's yours now. When fate hangs by a thread, flip it. It might save your life."
-WRITE DOWN:
-LEGENDARY ITEM: Lucky Coin
- - In final boss fight, reroll ANY failed check (yours or ally's) and 
-take
- better result
-"
-Plus
- you keep all coins won (~30 total profit)!"
-OPTION 3: STUDY PATTERN (INTELLIGENCE 7+)
-[ROLL d10 + INTELLIGENCE]
-SUCCESS (7+):
- "You notice his 
-tells
-! When you play now, roll TWICE and 
-take
- the higher result (advantage)."
-FAILURE (6 or less):
- "Too fast to figure out. No advantage."
-OPTION 4: CATCH CHEATING (INT/WIS 9+)
-[ROLL d10 + chosen stat]
-SUCCESS (9+):
- "You spot his sleight of hand - he's palming the Queen!"
-OPTIONS:
-Call him out publicly:
- He pays you 8 coins to keep quiet
-Blackmail privately:
- He pays you 10 coins
-Use knowledge to play:
- You get advantage on your next game
-FAILURE (8 or less):
- "Can't figure out if he's cheating or just skilled."
-OPTION 5: CHEAT BACK (DEXTERITY 11+)
-[ROLL d10 + DEXTERITY]
-SUCCESS (11+):
- "You subtly mark the Queen card. You auto-win the next game! Win 8 coins (5 profit)."
-FAILURE (10 or less):
-GAMBLER:
- "OI! CHEATER!"
-Large thugs stand up
-"Pay 5 coins as 'compensation' or get thrown out violently (lose 5 coins either way). Encounter over."
-OPTION 6: INTIMIDATE (STR/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-GAMBLER:
- 
-Nervous
- "Okay, okay, here's 8 coins. Just leave me alone."
-"You get 8 coins through intimidation. Encounter over."
-FAILURE (6 or less):
-GAMBLER:
- "Intimidate ME? In a THIEVES' tavern?"
-Thugs surround you
-"You're forced to back off. Lose 2 coins as they 'accidentally' 
-knock
- your pouch. Encounter over."
-ENDING:
-"The Gambler continues his game. You leave the tavern.
-Add 1 POINT to any stat
- (now at 19 total points)."
+### THE GAMBLER'S GAME
+**FOCUS: DEXTERITY & LUCK | COIN EARNING OPPORTUNITY**
+
+**(After Cameo 9 - Players likely have 25-35 coins)**
+
+---
+
+**DM NARRATION:**
+"You arrive at a run-down tavern called 'The Broken Coin.' Inside, rough-looking patrons eye you warily.
+
+In the back corner, a slick gambler in a worn velvet coat shuffles three cards with lightning speed. A modest pile of coins sits beside him.
+
+He grins, gold tooth glinting. 'Step right up, friend! Test your luck and skill! Find the Queen of Hearts!'"
+
+---
+
+### **THE THREE-CARD GAME (Safer Betting)**
+
+The gambler shows you three cards: Queen of Hearts, King of Spades, King of Clubs.
+
+**ROUND 1 - THE INTRODUCTION (Low Risk)**
+- **Cost to play:** 2 coins
+- **Prize if you win:** 7 coins (net profit: +5 coins)
+- **What you need:** Roll DEX + d20, need 10+
+
+**DM: [Shuffle three cards IRL - player watches, then chooses left/middle/right]**
+
+**Player rolls DEX + d20:**
+- **10+ and correct card:** You win! +7 coins (net +5 profit)
+  - GAMBLER: "Nicely done! Want to try for bigger stakes? Or walk away with your winnings?"
+
+- **10+ but wrong card:** Good tracking, wrong choice. Lose 2 coins.
+  - GAMBLER: "Close! Want another shot? Same price."
+
+- **9 or less:** You couldn't track it. Lose 2 coins.
+  - GAMBLER: "Better luck next time, friend!"
+
+---
+
+**ROUND 2 - DOUBLE STAKES (Medium Risk) - Optional**
+
+If you won Round 1:
+- **Cost:** 4 coins
+- **Prize:** 12 coins (net profit: +8 coins)
+- **Need:** DEX + d20, 12+
+
+**Results:**
+- **12+:** Win 12 coins! (Total profit: +13 coins from both rounds!)
+  - GAMBLER: "TWO in a row?! One more round? This is where it gets interesting..."
+
+- **Fail:** Lose 4 coins (overall profit from both rounds: +1 coin)
+
+---
+
+**ROUND 3 - BIG WIN (Higher Risk) - Optional**
+
+If you won Rounds 1 & 2:
+- **Cost:** 6 coins
+- **Prize:** 20 coins (net profit: +14 coins)
+- **Need:** DEX + d20, 14+
+
+**Results:**
+- **14+:** YOU WIN! +20 coins! **Total from all 3 rounds: +27 coins profit!**
+  - GAMBLER: "THREE in a row! You've got THE GIFT! I've bet on you three heroes. The Void Tyrant doesn't think you can win. He's arrogant. That's his weakness. Make me rich!"
+
+- **Fail:** Lose 6 coins (overall profit: +7 coins from all rounds)
+
+---
+
+### **ALTERNATIVE STRATEGIES**
+
+**WALK AWAY (Free):**
+- No gambling. The gambler shrugs and continues his game.
+
+**STUDY PATTERN FIRST (INT check):**
+- Roll INT + d20, need 12+
+- **Success:** Gain advantage (roll twice, take higher) on your first game
+- **Failure:** Too fast to figure out
+
+**NEGOTIATE ODDS (CHA check):**
+- Roll CHA + d20, need 14+
+- **Success:** "I like you! First round only costs 1 coin!"
+- **Failure:** "The odds are fair, friend."
+
+---
+
+**DM NOTE:** After gambling, the gambler says:
+
+"I've bet on you three. Word travels fast—three heroes, three paths, big quest. The Void Tyrant doesn't think you can win. He's arrogant. That's his weakness. Make me rich!"
+
+**[Players mark ±coins and +1 stat point (now at 19 total)]**
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #8
@@ -2284,56 +2256,85 @@ MECHANICAL BONUS: Successful gamblers gain +2 coins (extra generous)
 SPENDING ENCOUNTER: POTION SELLER (After Cameo 8s)
 ========================================================================
 
-# SPENDING ENCOUNTER: POTION
+# SPENDING ENCOUNTER: POTION SELLER
 ====================================================================================================
 ====================================================================================================
 ### THE POTION SELLER'S WAGON
 **Scene Description:**
-You smell the wagon before you see it—a heady mix of herbs, flowers, and strange chemical scents that tingle the nose. Around a bend in the path, a colorful wagon sits parked, covered in hanging bottles, vials, and dried plants. Wind chimes made of glass phials tinkle musically in the breeze.
-An elderly figure emerges from the back of the wagon, surprisingly spry, with sharp eyes that seem to see right through you. Gnarled hands sort through an array of bottles with practiced ease.
-**Potion Seller:** "Ah, another traveler seeking an edge. Smart. Magic and steel are fine, but potions? Potions can turn the tide when all else fails."
-The seller gestures to a display case revealing dozens of glowing, bubbling, shimmering concoctions.
-**Potion Seller:** "I don't sell to just anyone. But you... you have the look of someone who'll put these to good use. What do you need?"
-SPENDING ENCOUNTER 3: THE POTION SELLER
-After Cameo 5
- 
-(Players likely have 6-15 coins, highly variable from gambling)
-POTIONS AVAILABLE (Ascending Power):
-MINOR POTION OF CLARITY (1 coin):
-A pale blue liquid that sharpens the mind
-Mechanical Benefit:
- +1 to your next Intelligence-based d10 roll
-POTION OF PERCEPTION (2 coins):
-A golden liquid that enhances your senses
-Mechanical Benefit:
- +2 to your next Wisdom-based d10 roll
-GREATER POTION OF FORTUNE (3 coins):
-A shimmering purple potion
-Mechanical Benefit:
- +2 to any two d10 rolls of your choice (must declare before rolling)
-POTION OF HEROIC RESOLVE (4 coins):
-A deep red potion that courses with energy
-Mechanical Benefit:
- For the next encounter, add +1 to ALL your d10 rolls
-ELIXIR OF THE CHAMPION (5 coins):
-A radiant gold potion that seems to glow from within
-Mechanical Benefit:
- For your next d10 roll, roll twice and take the higher result, PLUS add +2
-MASTER ELIXIR OF DESTINY (7 coins):
-A swirling rainbow potion of incredible power
-Mechanical Benefit:
- For the entire next encounter, roll all d10s twice and take the higher result
-LEGENDARY PHOENIX TEARS (9 coins):
-An impossibly rare orange potion, warm to 
-the touch
-Mechanical Benefit:
- Grants "Phoenix Blessing" - if you ever fail a critical d10 roll, you may immediately reroll it once with +3 bonus
-DIVINE NECTAR OF THE GODS (12 coins):
-The rarest potion in existence, glowing with inner light (for the gambling winners!)
-Mechanical Benefit:
- For the final boss encounter, 
-ALL of
- your d10 rolls automatically succeed (no roll needed), AND you get +3 to all d20 narrative rolls
+You smell the wagon before you see it—a heady mix of herbs, flowers, and strange chemical scents. A colorful wagon sits parked, covered in hanging bottles and vials. Wind chimes made of glass phials tinkle musically.
+
+An elderly figure emerges, surprisingly spry, with sharp eyes. Gnarled hands sort through bottles with practiced ease.
+
+**SPENDING ENCOUNTER: THE POTION SELLER'S WAGON**
+(After Cameo 8 - Players likely have 30-50 coins)
+
+---
+
+**DM NARRATION:**
+The potion seller looks you over with keen eyes.
+
+**Potion Seller:** "Ah, another traveler seeking an edge. Smart. Magic and steel are fine, but potions? Potions can turn the tide when all else fails. I have potions for every need and every budget. Or..." *The seller grins mischievously,* "...if you can identify rare ingredients, I might trade services for knowledge."
+
+---
+
+### **TIER 1 - BASIC POTIONS (3-5 coins)**
+
+**POTION OF CLARITY (3 coins):**
+- Pale blue liquid that sharpens the mind
+- **Benefit:** +2 to your next INT roll
+
+**POTION OF PERCEPTION (5 coins):**
+- Golden liquid that enhances senses
+- **Benefit:** +2 to your next WIS roll + reroll once if you fail
+
+---
+
+### **TIER 2 - ADVANCED POTIONS (8-12 coins)**
+
+**POTION OF FORTUNE (8 coins):**
+- Shimmering purple potion
+- **Benefit:** Add +2 to any THREE rolls throughout your journey (declare before rolling)
+
+**POTION OF HEROIC RESOLVE (12 coins):**
+- Deep red potion coursing with energy
+- **Benefit:** For your NEXT encounter, add +1 to ALL rolls
+
+---
+
+### **TIER 3 - MASTER ELIXIRS (18-22 coins)**
+
+**ELIXIR OF THE CHAMPION (18 coins):**
+- Radiant gold potion glowing from within
+- **Benefit:** For your next encounter, roll ALL dice twice and take the higher result
+
+**DIVINE NECTAR (22 coins):**
+- Rainbow potion of incredible power
+- **Benefit:** Auto-succeed on any ONE check during your entire adventure (stored, use wisely!)
+
+---
+
+### **FREE OPTION - PROVE YOUR KNOWLEDGE (Risky!)**
+
+**"IDENTIFY THESE INGREDIENTS" (No coins, but risky)**
+
+The potion seller holds up three mysterious ingredients: "If you can correctly identify all three of these rare components, I'll brew you a potion for free. But if you fail... well, I don't have time for amateurs. No sales for you today."
+
+**Roll INT or WIS + d20**
+- **18+ or Natural 20:** Perfect identification! The seller is impressed!
+  - "You DO know your alchemy! Impressive!"
+  - **REWARD:** Choose any TIER 1 or TIER 2 potion FOR FREE + "The trials ahead will test more than your body—they'll test your heart, mind, and spirit. Stay strong."
+
+- **10-17:** You identify 1 or 2 correctly. The seller nods: "Not bad, but not enough for free services. My prices stand, but you're welcome to purchase."
+
+- **1-9:** You misidentify all three! The seller frowns: "You know nothing of alchemy. I can't waste time with amateurs. Good day!" **(LOSE THE CHANCE TO BUY ANYTHING - encounter over)**
+
+---
+
+**DM NOTE:** After transaction, the potion seller says:
+
+"The trials ahead will test more than your body—they'll test your heart, mind, and spirit. Your leader is counting on you. Stay strong."
+
+**[Players mark -coins spent, +potions gained, and +1 stat point (now at 18 total)]**
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #7
@@ -2385,11 +2386,11 @@ This is a CHARISMA check:
 Roll 11+:
  WIN THE CROWN (legendary item) + 10 coins
 Roll 8-10:
- Great! 5 coins + 4/5 bones
+ Great! 7 coins + 4/5 bones
 Roll 5-7:
- Good! 3 coins + 3/5 bones
+ Good! 5 coins + 3/5 bones
 Roll 1-4:
- Nice try! 1 coin + consolation stick
+ Nice try! 3 coins + consolation stick
 Who's first?"
 INDIVIDUAL PERFORMANCES:
 [FOR EACH PLAYER:]
@@ -2413,20 +2414,20 @@ LEGENDARY ITEM: Crown of the People's Champion
 PLUS, the crowd throws 10 coins on stage!
 You're a STAR!"
 RESULT: 8-10
-"Great performance! The crowd loves it! Max: 
+"Great performance! The crowd loves it! Max:
 4/5 BONES!
-Add 5 coins!"
+Add 7 coins!"
 RESULT: 5-7
-"Good effort! Solid! Max: 
+"Good effort! Solid! Max:
 3/5 BONES!
-Add 3 coins!"
+Add 5 coins!"
 RESULT: 1-4
 "It's... enthusiastic! Maybe a little rough!
 [Describe something funny going wrong]
-Max: 
+Max:
 2/5 BONES
 Luna brings you a consolation stick and licks your hand.
-Add 1 coin. 
+Add 3 coins. 
 Plus
  you have a stick!"
 GROUP PERFORMANCE:
@@ -2440,21 +2441,21 @@ Ready? PERFORM!"
 [PLAYERS DO GROUP ACT, DESIGNATED PLAYER ROLLS]
 SUCCESS (9+):
 "AMAZING! Max and Luna go WILD! The crowd is on their feet!
-EVERYONE gets 5 coins!
-PLUS: 
+EVERYONE gets 7 coins!
+PLUS:
 GROUP HARMONY BLESSING - Everyone gets +1 to all rolls for NEXT encounter
  (the Vendor)!"
 FAILURE (5-8):
-"Nice teamwork! Max: 
+"Nice teamwork! Max:
 3/5 BONES
  for the group!
-Everyone gets 2 coins!"
+Everyone gets 4 coins!"
 FAILURE (4 or less):
 "Didn't quite come together, but Max and Luna appreciate the heart!
-Max: 
+Max:
 2/5 BONES
 Luna brings everyone sticks.
-Everyone gets 1 coin."
+Everyone gets 2 coins."
 WINDING DOWN:
 YOU:
 "Max and Luna lead you to a campfire with more food and drinks. You sit, rest, eat
@@ -6179,125 +6180,97 @@ The diplomat's path continues."
 # RANDOM ENCOUNTER: GAMBLER
 ====================================================================================================
 ====================================================================================================
-ENCOUNTER 2: THE GAMBLER
-FOCUS: DEXTERITY | LEGENDARY REWARD: Lucky Coin
-SETUP:
-YOU:
-"You arrive at a run-down tavern called 'The Broken Coin.' Inside, rough-looking criminals eye you suspiciously.
-In the back corner, a slick gambler in a worn velvet coat shuffles three cards with lightning speed. A pile of 20+ coins sits beside him - he's been winning big.
-He grins, gold tooth glinting."
-GAMBLER:
-"Step right up! Find the Queen of Hearts! 3 coins to play, win 8 coins! More than double your money!"
-Briefly shows: Queen of Hearts, King of Spades, King of Clubs
-"Watch closely..."
-Shuffles rapidly, then stops
-"Who's feeling lucky?"
-YOU:
-"Current coins: [check sheets]
-Options:
-Play once
- - Pay 3 coins, Dexterity check (need 7+)
-Don't play
- - Walk away
-Study his pattern first
- - Intelligence check (need 7+) to gain advantage
-Catch him cheating
- - Int/Wisdom check, HARD (need 9+)
-Cheat back
- - Dexterity check, VERY HARD (need 11+)
-Intimidate
- - Str/Charisma (need 7+)
-What do you do?"
-OUTCOMES:
-OPTION 1: PLAY ONCE (DEXTERITY 7+)
-[SHUFFLE THREE CARDS IRL - player watches]
-"Which card? Left, middle, or right?"
-[PLAYER CHOOSES, THEN ROLLS d10 + DEXTERITY]
-SUCCESS (7+) AND CORRECT CARD:
-GAMBLER:
- "You tracked her! Incredible!"
-"You WIN 8 coins! (Net profit: +5 coins)"
-GAMBLER:
- "Want to go again? DOUBLE OR NOTHING - bet 6 coins, win 16!"
-[This 
-begins
- the HOT STREAK path - see below]
-FAILURE OR WRONG CARD:
- "You lose 3 coins. 
-Want
- to try again?"
-HOT STREAK PATH (For Dexterity Specialists):
-ROUND 2:
- Bet 6 coins, win 16 (need 7+) 
-ROUND 3:
- Bet 12 coins, win 30 (need 8+)
-IF THEY WIN ALL THREE ROUNDS - LEGENDARY REWARD:
-GAMBLER:
- "THREE IN A ROW?! I've never... you have THE GIFT."
-Pulls
- out an old, warm coin
-"This 
-Lucky Coin
- was given to me by my mentor. It's yours now. When fate hangs by a thread, flip it. It might save your life."
-WRITE DOWN:
-LEGENDARY ITEM: Lucky Coin
- - In final boss fight, reroll ANY failed check (yours or ally's) and 
-take
- better result
-"
-Plus
- you keep all coins won (~30 total profit)!"
-OPTION 3: STUDY PATTERN (INTELLIGENCE 7+)
-[ROLL d10 + INTELLIGENCE]
-SUCCESS (7+):
- "You notice his 
-tells
-! When you play now, roll TWICE and 
-take
- the higher result (advantage)."
-FAILURE (6 or less):
- "Too fast to figure out. No advantage."
-OPTION 4: CATCH CHEATING (INT/WIS 9+)
-[ROLL d10 + chosen stat]
-SUCCESS (9+):
- "You spot his sleight of hand - he's palming the Queen!"
-OPTIONS:
-Call him out publicly:
- He pays you 8 coins to keep quiet
-Blackmail privately:
- He pays you 10 coins
-Use knowledge to play:
- You get advantage on your next game
-FAILURE (8 or less):
- "Can't figure out if he's cheating or just skilled."
-OPTION 5: CHEAT BACK (DEXTERITY 11+)
-[ROLL d10 + DEXTERITY]
-SUCCESS (11+):
- "You subtly mark the Queen card. You auto-win the next game! Win 8 coins (5 profit)."
-FAILURE (10 or less):
-GAMBLER:
- "OI! CHEATER!"
-Large thugs stand up
-"Pay 5 coins as 'compensation' or get thrown out violently (lose 5 coins either way). Encounter over."
-OPTION 6: INTIMIDATE (STR/CHA 7+)
-[ROLL d10 + chosen stat]
-SUCCESS (7+):
-GAMBLER:
- 
-Nervous
- "Okay, okay, here's 8 coins. Just leave me alone."
-"You get 8 coins through intimidation. Encounter over."
-FAILURE (6 or less):
-GAMBLER:
- "Intimidate ME? In a THIEVES' tavern?"
-Thugs surround you
-"You're forced to back off. Lose 2 coins as they 'accidentally' 
-knock
- your pouch. Encounter over."
-ENDING:
-"The Gambler continues his game. You leave the tavern.
-Add 1 POINT to any stat
- (now at 19 total points)."
+### THE GAMBLER'S GAME
+**FOCUS: DEXTERITY & LUCK | COIN EARNING OPPORTUNITY**
+
+**(After Cameo 9 - Players likely have 25-35 coins)**
+
+---
+
+**DM NARRATION:**
+"You arrive at a run-down tavern called 'The Broken Coin.' Inside, rough-looking patrons eye you warily.
+
+In the back corner, a slick gambler in a worn velvet coat shuffles three cards with lightning speed. A modest pile of coins sits beside him.
+
+He grins, gold tooth glinting. 'Step right up, friend! Test your luck and skill! Find the Queen of Hearts!'"
+
+---
+
+### **THE THREE-CARD GAME (Safer Betting)**
+
+The gambler shows you three cards: Queen of Hearts, King of Spades, King of Clubs.
+
+**ROUND 1 - THE INTRODUCTION (Low Risk)**
+- **Cost to play:** 2 coins
+- **Prize if you win:** 7 coins (net profit: +5 coins)
+- **What you need:** Roll DEX + d20, need 10+
+
+**DM: [Shuffle three cards IRL - player watches, then chooses left/middle/right]**
+
+**Player rolls DEX + d20:**
+- **10+ and correct card:** You win! +7 coins (net +5 profit)
+  - GAMBLER: "Nicely done! Want to try for bigger stakes? Or walk away with your winnings?"
+
+- **10+ but wrong card:** Good tracking, wrong choice. Lose 2 coins.
+  - GAMBLER: "Close! Want another shot? Same price."
+
+- **9 or less:** You couldn't track it. Lose 2 coins.
+  - GAMBLER: "Better luck next time, friend!"
+
+---
+
+**ROUND 2 - DOUBLE STAKES (Medium Risk) - Optional**
+
+If you won Round 1:
+- **Cost:** 4 coins
+- **Prize:** 12 coins (net profit: +8 coins)
+- **Need:** DEX + d20, 12+
+
+**Results:**
+- **12+:** Win 12 coins! (Total profit: +13 coins from both rounds!)
+  - GAMBLER: "TWO in a row?! One more round? This is where it gets interesting..."
+
+- **Fail:** Lose 4 coins (overall profit from both rounds: +1 coin)
+
+---
+
+**ROUND 3 - BIG WIN (Higher Risk) - Optional**
+
+If you won Rounds 1 & 2:
+- **Cost:** 6 coins
+- **Prize:** 20 coins (net profit: +14 coins)
+- **Need:** DEX + d20, 14+
+
+**Results:**
+- **14+:** YOU WIN! +20 coins! **Total from all 3 rounds: +27 coins profit!**
+  - GAMBLER: "THREE in a row! You've got THE GIFT! I've bet on you three heroes. The Void Tyrant doesn't think you can win. He's arrogant. That's his weakness. Make me rich!"
+
+- **Fail:** Lose 6 coins (overall profit: +7 coins from all rounds)
+
+---
+
+### **ALTERNATIVE STRATEGIES**
+
+**WALK AWAY (Free):**
+- No gambling. The gambler shrugs and continues his game.
+
+**STUDY PATTERN FIRST (INT check):**
+- Roll INT + d20, need 12+
+- **Success:** Gain advantage (roll twice, take higher) on your first game
+- **Failure:** Too fast to figure out
+
+**NEGOTIATE ODDS (CHA check):**
+- Roll CHA + d20, need 14+
+- **Success:** "I like you! First round only costs 1 coin!"
+- **Failure:** "The odds are fair, friend."
+
+---
+
+**DM NOTE:** After gambling, the gambler says:
+
+"I've bet on you three. Word travels fast—three heroes, three paths, big quest. The Void Tyrant doesn't think you can win. He's arrogant. That's his weakness. Make me rich!"
+
+**[Players mark ±coins and +1 stat point (now at 19 total)]**
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #8
@@ -6806,56 +6779,85 @@ The diplomat's path continues."
 ---
 ====================================================================================================
 ====================================================================================================
-# SPENDING ENCOUNTER: POTION
+# SPENDING ENCOUNTER: POTION SELLER
 ====================================================================================================
 ====================================================================================================
 ### THE POTION SELLER'S WAGON
 **Scene Description:**
-You smell the wagon before you see it—a heady mix of herbs, flowers, and strange chemical scents that tingle the nose. Around a bend in the path, a colorful wagon sits parked, covered in hanging bottles, vials, and dried plants. Wind chimes made of glass phials tinkle musically in the breeze.
-An elderly figure emerges from the back of the wagon, surprisingly spry, with sharp eyes that seem to see right through you. Gnarled hands sort through an array of bottles with practiced ease.
-**Potion Seller:** "Ah, another traveler seeking an edge. Smart. Magic and steel are fine, but potions? Potions can turn the tide when all else fails."
-The seller gestures to a display case revealing dozens of glowing, bubbling, shimmering concoctions.
-**Potion Seller:** "I don't sell to just anyone. But you... you have the look of someone who'll put these to good use. What do you need?"
-SPENDING ENCOUNTER 3: THE POTION SELLER
-After Cameo 5
- 
-(Players likely have 6-15 coins, highly variable from gambling)
-POTIONS AVAILABLE (Ascending Power):
-MINOR POTION OF CLARITY (1 coin):
-A pale blue liquid that sharpens the mind
-Mechanical Benefit:
- +1 to your next Intelligence-based d10 roll
-POTION OF PERCEPTION (2 coins):
-A golden liquid that enhances your senses
-Mechanical Benefit:
- +2 to your next Wisdom-based d10 roll
-GREATER POTION OF FORTUNE (3 coins):
-A shimmering purple potion
-Mechanical Benefit:
- +2 to any two d10 rolls of your choice (must declare before rolling)
-POTION OF HEROIC RESOLVE (4 coins):
-A deep red potion that courses with energy
-Mechanical Benefit:
- For the next encounter, add +1 to ALL your d10 rolls
-ELIXIR OF THE CHAMPION (5 coins):
-A radiant gold potion that seems to glow from within
-Mechanical Benefit:
- For your next d10 roll, roll twice and take the higher result, PLUS add +2
-MASTER ELIXIR OF DESTINY (7 coins):
-A swirling rainbow potion of incredible power
-Mechanical Benefit:
- For the entire next encounter, roll all d10s twice and take the higher result
-LEGENDARY PHOENIX TEARS (9 coins):
-An impossibly rare orange potion, warm to 
-the touch
-Mechanical Benefit:
- Grants "Phoenix Blessing" - if you ever fail a critical d10 roll, you may immediately reroll it once with +3 bonus
-DIVINE NECTAR OF THE GODS (12 coins):
-The rarest potion in existence, glowing with inner light (for the gambling winners!)
-Mechanical Benefit:
- For the final boss encounter, 
-ALL of
- your d10 rolls automatically succeed (no roll needed), AND you get +3 to all d20 narrative rolls
+You smell the wagon before you see it—a heady mix of herbs, flowers, and strange chemical scents. A colorful wagon sits parked, covered in hanging bottles and vials. Wind chimes made of glass phials tinkle musically.
+
+An elderly figure emerges, surprisingly spry, with sharp eyes. Gnarled hands sort through bottles with practiced ease.
+
+**SPENDING ENCOUNTER: THE POTION SELLER'S WAGON**
+(After Cameo 8 - Players likely have 30-50 coins)
+
+---
+
+**DM NARRATION:**
+The potion seller looks you over with keen eyes.
+
+**Potion Seller:** "Ah, another traveler seeking an edge. Smart. Magic and steel are fine, but potions? Potions can turn the tide when all else fails. I have potions for every need and every budget. Or..." *The seller grins mischievously,* "...if you can identify rare ingredients, I might trade services for knowledge."
+
+---
+
+### **TIER 1 - BASIC POTIONS (3-5 coins)**
+
+**POTION OF CLARITY (3 coins):**
+- Pale blue liquid that sharpens the mind
+- **Benefit:** +2 to your next INT roll
+
+**POTION OF PERCEPTION (5 coins):**
+- Golden liquid that enhances senses
+- **Benefit:** +2 to your next WIS roll + reroll once if you fail
+
+---
+
+### **TIER 2 - ADVANCED POTIONS (8-12 coins)**
+
+**POTION OF FORTUNE (8 coins):**
+- Shimmering purple potion
+- **Benefit:** Add +2 to any THREE rolls throughout your journey (declare before rolling)
+
+**POTION OF HEROIC RESOLVE (12 coins):**
+- Deep red potion coursing with energy
+- **Benefit:** For your NEXT encounter, add +1 to ALL rolls
+
+---
+
+### **TIER 3 - MASTER ELIXIRS (18-22 coins)**
+
+**ELIXIR OF THE CHAMPION (18 coins):**
+- Radiant gold potion glowing from within
+- **Benefit:** For your next encounter, roll ALL dice twice and take the higher result
+
+**DIVINE NECTAR (22 coins):**
+- Rainbow potion of incredible power
+- **Benefit:** Auto-succeed on any ONE check during your entire adventure (stored, use wisely!)
+
+---
+
+### **FREE OPTION - PROVE YOUR KNOWLEDGE (Risky!)**
+
+**"IDENTIFY THESE INGREDIENTS" (No coins, but risky)**
+
+The potion seller holds up three mysterious ingredients: "If you can correctly identify all three of these rare components, I'll brew you a potion for free. But if you fail... well, I don't have time for amateurs. No sales for you today."
+
+**Roll INT or WIS + d20**
+- **18+ or Natural 20:** Perfect identification! The seller is impressed!
+  - "You DO know your alchemy! Impressive!"
+  - **REWARD:** Choose any TIER 1 or TIER 2 potion FOR FREE + "The trials ahead will test more than your body—they'll test your heart, mind, and spirit. Stay strong."
+
+- **10-17:** You identify 1 or 2 correctly. The seller nods: "Not bad, but not enough for free services. My prices stand, but you're welcome to purchase."
+
+- **1-9:** You misidentify all three! The seller frowns: "You know nothing of alchemy. I can't waste time with amateurs. Good day!" **(LOSE THE CHANCE TO BUY ANYTHING - encounter over)**
+
+---
+
+**DM NOTE:** After transaction, the potion seller says:
+
+"The trials ahead will test more than your body—they'll test your heart, mind, and spirit. Your leader is counting on you. Stay strong."
+
+**[Players mark -coins spent, +potions gained, and +1 stat point (now at 18 total)]**
 ====================================================================================================
 ====================================================================================================
 # CAMEO ENCOUNTERS #7
@@ -7469,11 +7471,11 @@ This is a CHARISMA check:
 Roll 11+:
  WIN THE CROWN (legendary item) + 10 coins
 Roll 8-10:
- Great! 5 coins + 4/5 bones
+ Great! 7 coins + 4/5 bones
 Roll 5-7:
- Good! 3 coins + 3/5 bones
+ Good! 5 coins + 3/5 bones
 Roll 1-4:
- Nice try! 1 coin + consolation stick
+ Nice try! 3 coins + consolation stick
 Who's first?"
 INDIVIDUAL PERFORMANCES:
 [FOR EACH PLAYER:]
@@ -7497,20 +7499,20 @@ LEGENDARY ITEM: Crown of the People's Champion
 PLUS, the crowd throws 10 coins on stage!
 You're a STAR!"
 RESULT: 8-10
-"Great performance! The crowd loves it! Max: 
+"Great performance! The crowd loves it! Max:
 4/5 BONES!
-Add 5 coins!"
+Add 7 coins!"
 RESULT: 5-7
-"Good effort! Solid! Max: 
+"Good effort! Solid! Max:
 3/5 BONES!
-Add 3 coins!"
+Add 5 coins!"
 RESULT: 1-4
 "It's... enthusiastic! Maybe a little rough!
 [Describe something funny going wrong]
-Max: 
+Max:
 2/5 BONES
 Luna brings you a consolation stick and licks your hand.
-Add 1 coin. 
+Add 3 coins. 
 Plus
  you have a stick!"
 GROUP PERFORMANCE:
@@ -7524,21 +7526,21 @@ Ready? PERFORM!"
 [PLAYERS DO GROUP ACT, DESIGNATED PLAYER ROLLS]
 SUCCESS (9+):
 "AMAZING! Max and Luna go WILD! The crowd is on their feet!
-EVERYONE gets 5 coins!
-PLUS: 
+EVERYONE gets 7 coins!
+PLUS:
 GROUP HARMONY BLESSING - Everyone gets +1 to all rolls for NEXT encounter
  (the Vendor)!"
 FAILURE (5-8):
-"Nice teamwork! Max: 
+"Nice teamwork! Max:
 3/5 BONES
  for the group!
-Everyone gets 2 coins!"
+Everyone gets 4 coins!"
 FAILURE (4 or less):
 "Didn't quite come together, but Max and Luna appreciate the heart!
-Max: 
+Max:
 2/5 BONES
 Luna brings everyone sticks.
-Everyone gets 1 coin."
+Everyone gets 2 coins."
 WINDING DOWN:
 YOU:
 "Max and Luna lead you to a campfire with more food and drinks. You sit, rest, eat
