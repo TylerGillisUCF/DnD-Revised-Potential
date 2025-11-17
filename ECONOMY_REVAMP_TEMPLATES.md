@@ -309,12 +309,54 @@ DM: "You have no coins. The veteran laughs. 'A hero with an empty purse? I've be
 
 ---
 
-## TO COMPLETE:
+## COMPLETED ITEMS:
 
-Still need to revise:
-- TALENT SHOW (adjust coin rewards to 5-10 coins)
-- BEGGAR encounter (add 3-tier pricing)
-- VENDOR encounter (add 3-tier pricing, remove item names)
-- GARY'S EMPORIUM (replace item names with placeholders)
-- Add "+5 coins earned" notation to all 36 Cameo encounters
+✅ **TALENT SHOW** - Adjusted coin rewards to 5-10 coins minimum (updated in ENHANCED_CAMPAIGN_COMPLETE.txt)
+  - Individual performance: 5-10 coins (was 3-10 coins)
+  - Group performance: 5-7 coins (was 2-7 coins)
+
+✅ **BEGGAR encounter** - Already has 3-tier pricing structure (3-25 coins)
+  - Tier 1: 3-5 coins
+  - Tier 2: 8-12 coins
+  - Tier 3: 18-25 coins
+
+✅ **VENDOR encounter** - Already has 3-tier pricing and uses placeholders
+  - Tier 1: 3-5 coins
+  - Tier 2: 10-12 coins
+  - Tier 3: 20-25 coins
+  - All items use "[USER WILL INSERT ITEM NAME]" placeholders
+
+✅ **GARY'S EMPORIUM** - Already uses "[USER WILL INSERT ITEM NAME]" placeholders for all 15 items
+
+## IN PROGRESS:
+
+⚠️ **Add "+5 coins earned" to all 36 Cameo encounters**
+  - STATUS: 5 of ~36 encounters updated
+  - COMPLETED: Formal REWARD sections in encounters #12, #11, #6, #8
+  - REMAINING: Narrative-style encounters where artifacts are mentioned in story text need coin notation added
+
+  **NOTE:** The campaign file has two encounter formats:
+  1. Formal Cameo encounters with `**REWARD:**` sections (easier to update)
+  2. Narrative encounters where artifacts appear in story text (e.g., "Lena leaves with the Chains of Freedom (Artifact 4/12)")
+
+  **Recommendation:** Add a line after each artifact acquisition:
+  - For formal REWARD sections: `- +5 coins earned` (DONE for 5 encounters)
+  - For narrative encounters: Add `[+5 COINS EARNED]` or similar notation after the artifact mention
+
+## TEMPLATES FOR NARRATIVE ENCOUNTERS:
+
+### Example - Before:
+```
+Lena leaves the Redemption Garden with the Chains of Freedom (Artifact 4/12) and a fourth signature (Signature 4/12).
+```
+
+### Example - After:
+```
+Lena leaves the Redemption Garden with the Chains of Freedom (Artifact 4/12) and a fourth signature (Signature 4/12). [+5 COINS EARNED]
+```
+
+OR integrate into narrative:
+```
+Lena leaves the Redemption Garden with the Chains of Freedom (Artifact 4/12), a fourth signature (Signature 4/12), and 5 coins earned from completing this encounter.
+```
 
