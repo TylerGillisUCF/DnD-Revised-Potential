@@ -1109,8 +1109,8 @@ The **Holy Gauntlets** materialize. "A warrior who knows WHY they fight hits har
 
 **REWARD:**
 - Holy Gauntlets (Artifact 1/12)
+- +5 coins earned
 - +1 Stat Point (13 total) - Add to any stat!
-- Current coins: 12 +/- based on roll
 
 
 The warrior nods and moves forward, the crimson path stretching ahead to the next challenge.
@@ -1168,8 +1168,8 @@ The **Sky Compass** floats down—pointing north, south, AND up and down.
 
 **REWARD:**
 - Sky Compass (Artifact 1/12)
+- +5 coins earned
 - +1 Stat Point (13 total)
-- Current coins: 12 +/- based on rolls
 
 
 With the prize secured in his pack, the treasure hunter continues his odyssey.
@@ -1238,8 +1238,8 @@ The illusions fade. Madara gives the **Shadow Cloak**.
 
 **REWARD:**
 - Shadow Cloak (Artifact 6/12) - **HALFWAY THERE!**
+- +5 coins earned
 - +1 Stat Point (22 total)
-- Current coins: varies based on rolls and spending
 
 **[NEXT: MIDPOINT VISION occurs after all three complete Cameo 6!]**
 
@@ -1302,8 +1302,8 @@ Win or lose the gamble, he tosses you the **Gambler's Die**.
 
 **REWARD:**
 - Gambler's Die (Artifact 8/12)
+- +5 coins earned
 - +1 Stat Point (25 total)
-- Current coins: HIGHLY variable based on gambling!
 
 
 With the prize secured in his pack, the treasure hunter continues his odyssey.
@@ -1357,8 +1357,8 @@ Dan hands over the **Harmony Stone**, glowing softly.
 
 **REWARD:**
 - Harmony Stone (Artifact 11/12) - **ONE MORE TO GO!**
+- +5 coins earned
 - +1 Stat Point (28 total)
-- Current coins: varies
 
 
 With the prize secured in his pack, the treasure hunter continues his odyssey.
@@ -2428,7 +2428,7 @@ Roll 8-10:
 Roll 5-7:
  Good! 5 coins + 3/5 bones
 Roll 1-4:
- Nice try! 3 coins + consolation stick
+ Nice try! 5 coins + consolation stick
 Who's first?"
 INDIVIDUAL PERFORMANCES:
 [FOR EACH PLAYER:]
@@ -2465,7 +2465,7 @@ RESULT: 1-4
 Max:
 2/5 BONES
 Luna brings you a consolation stick and licks your hand.
-Add 3 coins. 
+Add 5 coins.
 Plus
  you have a stick!"
 GROUP PERFORMANCE:
@@ -2487,13 +2487,13 @@ FAILURE (5-8):
 "Nice teamwork! Max:
 3/5 BONES
  for the group!
-Everyone gets 4 coins!"
+Everyone gets 5 coins!"
 FAILURE (4 or less):
 "Didn't quite come together, but Max and Luna appreciate the heart!
 Max:
 2/5 BONES
 Luna brings everyone sticks.
-Everyone gets 2 coins."
+Everyone gets 5 coins."
 WINDING DOWN:
 YOU:
 "Max and Luna lead you to a campfire with more food and drinks. You sit, rest, eat
@@ -7535,7 +7535,7 @@ Roll 8-10:
 Roll 5-7:
  Good! 5 coins + 3/5 bones
 Roll 1-4:
- Nice try! 3 coins + consolation stick
+ Nice try! 5 coins + consolation stick
 Who's first?"
 INDIVIDUAL PERFORMANCES:
 [FOR EACH PLAYER:]
@@ -7572,7 +7572,7 @@ RESULT: 1-4
 Max:
 2/5 BONES
 Luna brings you a consolation stick and licks your hand.
-Add 3 coins. 
+Add 5 coins.
 Plus
  you have a stick!"
 GROUP PERFORMANCE:
@@ -7594,13 +7594,13 @@ FAILURE (5-8):
 "Nice teamwork! Max:
 3/5 BONES
  for the group!
-Everyone gets 4 coins!"
+Everyone gets 5 coins!"
 FAILURE (4 or less):
 "Didn't quite come together, but Max and Luna appreciate the heart!
 Max:
 2/5 BONES
 Luna brings everyone sticks.
-Everyone gets 2 coins."
+Everyone gets 5 coins."
 WINDING DOWN:
 YOU:
 "Max and Luna lead you to a campfire with more food and drinks. You sit, rest, eat
